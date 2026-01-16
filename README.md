@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Luis Guilherme
 
-<!--
-**LuisGuilherme-dev/LuisGuilherme-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia, sempre buscando aprender e evoluir no mundo da programação.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 👨‍💻 Programador focado em desenvolvimento web
+- 📚 Estudando e aprimorando boas práticas de código
+- 🎯 Interesse em desenvolvimento full stack
+- 🔎 Sempre aberto a novos desafios e oportunidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+- **Frontend:**  
+  - HTML5  
+  - CSS3  
+  - JavaScript  
+
+- **Backend:**  
+  - PHP  
+  - Laravel  
+
+- **Banco de Dados:**  
+  - SQL (MySQL / PostgreSQL)
+
+## 📊 GitHub Stats
+![Luis Guilherme GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisGuilherme-dev&show_icons=true&theme=dark)
+
+## 🔥 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGuilherme-dev&layout=compact&theme=dark)
+
+## 📫 Como me encontrar
+- GitHub: [@LuisGuilherme-dev](https://github.com/LuisGuilherme-dev)
+
+---
+
+⭐️ *Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!*
